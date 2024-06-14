@@ -3,6 +3,7 @@ body{
 }
 
 div{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: white;
     font-size: 5rem;
     position: absolute;
