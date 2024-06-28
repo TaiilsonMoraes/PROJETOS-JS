@@ -1,0 +1,27 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#container-header{
+    background-color: aquamarine;
+    display: flex; 
+}
+
+#nav-container{
+    display: flex;
+    justify-content: end;
+    width: 100%;
+}
+.nav-content{
+    display: flex;
+    justify-content: end;
+    list-style: none;
+}
+
+img{
+    width: 2rem;
+    height: 2rem;
+    border-radius: 30px;
+}
